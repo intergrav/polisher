@@ -25,8 +25,16 @@ file = "config/yosbr/config/immediatelyfast.json"
 hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "c3e1c09d37c1556325a246bda163a51af6882b02a02ae5ee0317be4383e6fc17"
+
+[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "eb5b25637b65d593b2974805c70f6ef3558942641dbf7e3c72bc5fb25e2f16e0"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "f8fbd23126b27ce0d51526ed9712f98152dcc9dc608015dc4b489ffde5d36b2a"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -66,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "457603e7c278da5b0a418354585addb075993380ec9e195d691d5097a8bd512c"
+hash = "96478690ba4437d4f27af541c9365bd9dfd30674c3dc12fb3a1702e358a16a0c"
 metafile = true
 
 [[files]]
@@ -81,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -101,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
 metafile = true
 
 [[files]]
