@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "5bd97b3d70fb97a1947d6a84bc495560adaf40a1762450063ccea349e95c9911"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "1e673e5c776fc34a35e2df497d76d9081ad0f0b5c89ded17d2fd57fe1969272f"
+
+[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
 
@@ -55,6 +59,11 @@ hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e256b55ec94408fd32ba3963fb21cd54718a087134ed24ea2c4c660f25bae977"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
 
 [[files]]
