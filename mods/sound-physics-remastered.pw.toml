@@ -11,3 +11,8 @@ hash = "c47fd8ae9737c0495c1456ccd122853425bc1698"
 [update.modrinth]
 mod-id = "qyVF9oeo"
 version = "th5AIucC"
+
+[option]
+optional = true
+default = true
+description = "Adds sound physics to the game, including voice chat. For example, if you are in a cave, you will hear an echo to all sounds. This can make for some very funny moments sometimes and increases the immersiveness. This is an optional mod because if you are on a slow device it can impact your FPS. If you don't want this or need more FPS, disable this mod by clicking the checkbox."
