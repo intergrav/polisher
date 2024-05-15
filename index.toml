@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "51614a206b26e8a54d3f2392ba4d4300a5f7f60ed1814dc24eb242b0c4c0a3ba"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a37fd2211e2700f39655cd8672c3dff64252dd930301b640a64e280b8497444e"
+hash = "b45be2af8beef3e632a89482ca4a11028d89bc063ca282c112ee69e886992d43"
 metafile = true
 
 [[files]]
