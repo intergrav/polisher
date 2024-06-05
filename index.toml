@@ -107,8 +107,13 @@ hash = "0c27d462e6b4f53873bbb76f6e10680cce56e4ddfdd217cec22da34e3f375f83"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1c267253fb20ff2891b75a531cb6c080d39ee416a417a0fc8814abeaed13383b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
@@ -123,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
+hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
 metafile = true
 
 [[files]]
